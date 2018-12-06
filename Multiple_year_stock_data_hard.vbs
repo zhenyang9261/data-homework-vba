@@ -15,7 +15,7 @@ Attribute VB_Name = "Module3"
 '3. Greatest total volume
 '-------------------------------------------------------
 
-Sub Multiple_year_stock_data_moderate():
+Sub Multiple_year_stock_data_hard():
 
     'Define variables begin -------------------
 
